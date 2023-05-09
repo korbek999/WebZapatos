@@ -1,0 +1,11 @@
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\ZapateriaStoreBF.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\ZapateriaStoreBF.pdb
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\obj\Debug\ZapateriaStoreBF.csproj.CoreCompileInputs.cache
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\obj\Debug\ZapateriaStoreBF.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\obj\Debug\ZapateriaStoreBF.pdb
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\ZapateriaStoreDAL.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\EntityFramework.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\ZapateriaStoreDAL.pdb
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\ZapateriaStoreDAL.dll.config
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\bin\Debug\EntityFramework.xml
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreBF\obj\Debug\ZapateriaStoreBF.csprojResolveAssemblyReference.cache

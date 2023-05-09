@@ -1,0 +1,11 @@
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\ZapateriaStoreDAL.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\ZapateriaStoreDAL.pdb
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\obj\Debug\ZapateriaStoreDAL.csprojResolveAssemblyReference.cache
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\obj\Debug\ZapateriaStoreDAL.csproj.CoreCompileInputs.cache
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\obj\Debug\ZapateriaStoreDAL.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\obj\Debug\ZapateriaStoreDAL.pdb
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\ZapateriaStoreDAL.dll.config
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\EntityFramework.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\EntityFramework.xml
+C:\Users\Korbek99\source\repos\WebZapateria\ZapateriaStoreDAL\bin\Debug\EntityFramework.SqlServer.xml
